@@ -28,7 +28,8 @@ This project implements a Streamlit application that utilizes a YOLOV5 model for
   - matplotlib
   - pytesseract
   - streamlit
-You can install the required libraries using the following command: pip install -r requirements.txt
+
+#### You can install the required libraries using the following command: pip install -r requirements.txt
 
 ### Getting Started
   - Clone the repository or download the code files.
