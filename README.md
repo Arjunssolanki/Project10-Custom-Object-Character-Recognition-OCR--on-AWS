@@ -12,7 +12,7 @@ This project implements a Streamlit application that utilizes a YOLOV5 model for
 
 ## Prerequisites
 - Python 3.8+
-## requirements.txt:
+## Required libraries
   - numpy
   - scipy
   - wget
