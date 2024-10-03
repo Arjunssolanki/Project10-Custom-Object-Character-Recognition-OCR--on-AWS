@@ -1,0 +1,16 @@
+numpy
+scipy
+wget
+seaborn
+tensorflow
+opencv-python
+tqdm
+pandas
+awscli
+urllib3
+mss
+labelImg
+ipykernel
+matplotlib
+pytesseract
+streamlit
